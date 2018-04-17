@@ -1,0 +1,19 @@
+body { margin:0;}
+*{font-size:10px; font-weight:bold; } 
+#new { border:none; padding:50px; background-color:#FF8C00; width:100%; margin-bottom:10px;}
+#list { border:none; padding:50px; background-color:#FF8C00;width:100%;}
+table {width:100%; }
+tr { background-color:#cccccc; border-bottom:3px solid #FFF; padding;5px;}
+#bt {  }
+.block {display:block;  -webkit-transition: width 2s, height 4s; /* Safari */
+    transition: width 2s, height 4s;transition-timing-function: linear;}
+#scan {  color:#FFF; background:#000; border:none; padding:100px; width:100%; margin-top:50%;  font-size:50px;}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+
+}
